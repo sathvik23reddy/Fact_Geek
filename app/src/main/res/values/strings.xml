@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Fact Geek!</string>
+    <string name="saved">SAVED</string>
+    <string name="your_fact_is_almost_here">Your fact is almost here!</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<!--Gradient for RV Items-->
+<shape
+    android:shape = "rectangle"
+    xmlns:android = "http://schemas.android.com/apk/res/android" >
+
+    <gradient
+        android:startColor = "#a40606"
+        android:endColor = "#d98324"
+        android:angle = "225"
+        android:type = "linear" />
+</shape>
