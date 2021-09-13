@@ -10,3 +10,6 @@
 -> Additionally the user is presented with the Instructions on the first startup of the app
 
 Get the app -> https://drive.google.com/file/d/1ZmJ5LdyJILkJ71Sxci498tyAHBJUpYMH/view?usp=sharing
+
+https://user-images.githubusercontent.com/66932035/133115505-893f5525-312e-4291-b9c2-ae689761b3ff.mp4
+
